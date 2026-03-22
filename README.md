@@ -12,9 +12,6 @@ This project demonstrates an end-to-end data analysis workflow.
 ## 🛠 Tools
 Python | Pandas | BeautifulSoup | Matplotlib | Seaborn | Jupyter Notebook
 
-## 📊 Output
-(Add screenshots)
-
 ## 💡 Insights
 - Identified trends using moving averages
 - Visualized stock price behavior
